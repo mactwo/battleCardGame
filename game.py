@@ -1,3 +1,4 @@
+#Made by Evan Boudlah and Mathis Peyre Schortzen
 import random
 
 def comparer_cartes(carte1, carte2): #fonction permet de comparer deux cartes en entrée
